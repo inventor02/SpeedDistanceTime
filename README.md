@@ -1,6 +1,6 @@
 # DistanceSpeedTime
 
-TODO
+**GCSE CS:** Calculate distance, speed and time from dynamic user input.
 
 ### Releases
 
