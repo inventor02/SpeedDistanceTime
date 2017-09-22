@@ -4,4 +4,4 @@
 
 ### Releases
 
-Releases available on the [releases page](https://github.com/inventor02/DistanceSpeedTime).
+Releases available on the [releases page](https://github.com/inventor02/SpeedDistanceTime).
